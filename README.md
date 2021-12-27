@@ -36,6 +36,6 @@ erDiagram
 ![Class Diagram](https://user-images.githubusercontent.com/83504513/147444865-12d5106b-5285-49d6-adbc-7b9e07b411eb.png)
 
 #
-Design Class Diagram for JavaFX and Database
+Design Class Diagram for JavaFX and Database 
 -
 ![Class Diagram (1)](https://user-images.githubusercontent.com/83504513/147449517-ea9de7f2-e6cc-4bea-ab60-0e7cb19f18d3.png)
