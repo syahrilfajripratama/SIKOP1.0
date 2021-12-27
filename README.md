@@ -27,15 +27,12 @@ Libraries and Tools :
 
 #
 Class Diagram
--
-![WhatsApp Image 2021-12-22 at 21 52 50](https://user-images.githubusercontent.com/83504513/147445084-e6591d12-481e-4e62-83eb-a2f318ad5944.jpeg)
+- ![WhatsApp Image 2021-12-22 at 21 52 50](https://user-images.githubusercontent.com/83504513/147445084-e6591d12-481e-4e62-83eb-a2f318ad5944.jpeg)
 
 #
 erDiagram
--
-![Class Diagram](https://user-images.githubusercontent.com/83504513/147444865-12d5106b-5285-49d6-adbc-7b9e07b411eb.png)
+- ![Class Diagram](https://user-images.githubusercontent.com/83504513/147444865-12d5106b-5285-49d6-adbc-7b9e07b411eb.png)
 
 #
 Design Class Diagram for JavaFX and Database 
--
-![Class Diagram (1)](https://user-images.githubusercontent.com/83504513/147449517-ea9de7f2-e6cc-4bea-ab60-0e7cb19f18d3.png)
+- ![Class Diagram (1)](https://user-images.githubusercontent.com/83504513/147449517-ea9de7f2-e6cc-4bea-ab60-0e7cb19f18d3.png)
