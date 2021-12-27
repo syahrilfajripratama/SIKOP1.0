@@ -2,7 +2,7 @@
 
 # 
 About this project
-SIKOP1.0 atau Sistem Informasi Koperasi Versi 1.0 adalah aplikasi yang memungkinkan membuat Akun Rekening yang terbagi menjadi 2 yaitu Akun Individu dan Akun Perusahaan. Tiap Rekening itu terdaftar sebagai Nasabah. Di aplikasi ini memungkinkan satu orang untuk membuat lebih dari 1 Akun Rekening.  
+SIKOP1.0 atau Sistem Informasi Koperasi Versi 1.0 adalah aplikasi yang memungkinkan membuat Akun Rekening yang terbagi menjadi 2 yaitu Akun Individu dan Akun Perusahaan. Tiap Rekening itu terdaftar sebagai Nasabah. Di aplikasi ini memungkinkan satu Nasabah untuk membuat lebih dari 1 Akun Rekening.  
 
 # 
 Kelompok 6 PBO Kelas C
@@ -31,7 +31,7 @@ Class Diagram
 ![WhatsApp Image 2021-12-22 at 21 52 50](https://user-images.githubusercontent.com/83504513/147445084-e6591d12-481e-4e62-83eb-a2f318ad5944.jpeg)
 
 #
-erDiagram
+ERDiagram
 - 
 ![Class Diagram](https://user-images.githubusercontent.com/83504513/147444865-12d5106b-5285-49d6-adbc-7b9e07b411eb.png)
 
