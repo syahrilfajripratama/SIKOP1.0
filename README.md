@@ -40,7 +40,8 @@ Design Class Diagram for JavaFX and Database
 -
 ![Class Diagram (1)](https://user-images.githubusercontent.com/83504513/147449517-ea9de7f2-e6cc-4bea-ab60-0e7cb19f18d3.png)
 
-#Hasil
+#
+Hasil
 - Bagian Individu
 ![WhatsApp Image 2021-12-27 at 15 14 02](https://user-images.githubusercontent.com/83504513/147450735-af09299d-5f0f-4a40-9f37-c403323e1ddd.jpeg)
 - Bagian Perusahaan
